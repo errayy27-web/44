@@ -1,0 +1,1 @@
+S29: Ayarlar > Senkronizasyon Durumu > Tümünü Eşitle. Ortak kayıtlar için manuel eşitleme ve bekleyen olayları hem PC hem Supabase hedefine ulaştırma denemesi. Kasa, stok ve 3 saniyelik otomatik yenileme kodları değiştirilmedi. Codemagic derlemesi ve gerçek cihaz testi yapılmadı.
